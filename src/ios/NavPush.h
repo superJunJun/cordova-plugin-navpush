@@ -8,7 +8,7 @@
 #import <Cordova/CDVPlugin.h>
 #import "AppDelegate.h"
 
-@interface NavPushClass : CDVPlugin
+@interface NavPush : CDVPlugin
 
 - (void)navigationPush:(CDVInvokedUrlCommand*)command;
 

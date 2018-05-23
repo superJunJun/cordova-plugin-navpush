@@ -5,9 +5,9 @@
 //  Created by lijun on 2018/5/22.
 //
 
-#import "NavPushClass.h"
+#import "NavPush.h"
 
-@implementation NavPushClass
+@implementation NavPush
 
 - (void)navigationPush:(CDVInvokedUrlCommand*)command {
     UIViewController *nextVC = [[UIViewController alloc] init];
