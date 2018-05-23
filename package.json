@@ -1,0 +1,25 @@
+{
+  "name": "com.lj.navpush",
+  "version": "1.0.1",
+  "description": "nav push cordova to oc",
+  "cordova": {
+    "id": "com.lj.navpush",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superJunJun/cordova-plugin-navpush.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "15934874308@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superJunJun/cordova-plugin-navpush/issues"
+  },
+  "homepage": "https://github.com/superJunJun/cordova-plugin-navpush#readme"
+}
